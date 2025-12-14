@@ -1,6 +1,6 @@
 # Mekanbul Backend
 
-🔗 **Demo:** [https://mekanbul-backend-bice.vercel.app/](https://mekanbul-backend-kohl.vercel.app/)
+🔗 **Demo:** <a href="https://mekanbul-backend-kohl.vercel.app/" target="_blank">https://mekanbul-backend-kohl.vercel.app/</a>
 
 Bu depo, **mekanbul-backend** uygulamasının basit bir **Node.js**, **Express** ve **Mongoose** kullanılarak geliştirilmiş arka yüz (backend) uygulamasıdır.
 
@@ -48,7 +48,7 @@ npm start
 
 Uygulama aşağıdaki rota (route) ve HTTP metotlarını destekler:
 
-* **Tüm mekanları listele:** `GET /api/venues`
+* **Yakındaki mekanı listele:** `GET /api/venues`
 * **Yeni mekan ekle:** `POST /api/venues`
 * **Mekan detayını getir:** `GET /api/venues/:venueid`
 * **Mekanı güncelle:** `PUT /api/venues/:venueid`
@@ -63,6 +63,7 @@ Uygulama aşağıdaki rota (route) ve HTTP metotlarını destekler:
 ## Postman Test Sonucu
 
 Aşağıda Postman ile alınmış test sonuçlarının ekran görüntüsü bulunmaktadır:
+
 <img width="2557" height="1393" alt="AddVenue" src="https://github.com/user-attachments/assets/042553d3-902b-44c4-aa81-462871d916d5" />
 
 <img width="2559" height="1393" alt="AddComment" src="https://github.com/user-attachments/assets/b88a0d3c-86e8-48b9-b34e-df0cbacdc7dc" />
