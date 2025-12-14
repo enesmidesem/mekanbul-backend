@@ -2,7 +2,7 @@
 
 🔗 **Demo:** <a href="https://mekanbul-backend-kohl.vercel.app/" target="_blank">https://mekanbul-backend-kohl.vercel.app/</a>
 
-Bu depo, **mekanbul-backend** uygulamasının basit bir **Node.js**, **Express** ve **Mongoose** kullanılarak geliştirilmiş arka yüz (backend) uygulamasıdır.
+Bu repo, **mekanbul-backend** uygulamasının basit bir **Node.js**, **Express** ve **Mongoose** kullanılarak geliştirilmiş backend uygulamasıdır.
 
 ---
 
