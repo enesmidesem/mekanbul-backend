@@ -119,7 +119,7 @@
 					]
 				},
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e90f942f2a99cacbafd75/comments",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}/comments",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -129,7 +129,7 @@
 					"path": [
 						"api",
 						"venues",
-						"693e90f942f2a99cacbafd75",
+						"{{venueid}}",
 						"comments"
 					]
 				}
@@ -212,7 +212,7 @@
 					]
 				},
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e90f942f2a99cacbafd75",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -222,7 +222,7 @@
 					"path": [
 						"api",
 						"venues",
-						"693e90f942f2a99cacbafd75"
+						"{{venueid}}"
 					]
 				}
 			},
@@ -254,7 +254,7 @@
 					]
 				},
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e90f942f2a99cacbafd75/comments/693e9563fc07a1048fd6529f",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}/comments/{{commentid}}",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -264,9 +264,9 @@
 					"path": [
 						"api",
 						"venues",
-						"693e90f942f2a99cacbafd75",
+						"{{venueid}}",
 						"comments",
-						"693e9563fc07a1048fd6529f"
+						"{{commentid}}"
 					]
 				}
 			},
@@ -278,7 +278,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e90f942f2a99cacbafd75",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -288,7 +288,7 @@
 					"path": [
 						"api",
 						"venues",
-						"693e90f942f2a99cacbafd75"
+						"{{venueid}}"
 					]
 				}
 			},
@@ -307,7 +307,7 @@
 					"urlencoded": []
 				},
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e90f942f2a99cacbafd75/comments/693e9563fc07a1048fd6529f",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}/comments/{{commentid}}",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -317,9 +317,9 @@
 					"path": [
 						"api",
 						"venues",
-						"693e90f942f2a99cacbafd75",
+						"{{venueid}}",
 						"comments",
-						"693e9563fc07a1048fd6529f"
+						"{{commentid}}"
 					]
 				}
 			},
@@ -374,7 +374,7 @@
 					"urlencoded": []
 				},
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e966ffc07a1048fd652b7/comments/693e9696fc07a1048fd652bc",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}/comments/{{commentid}}",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -384,9 +384,9 @@
 					"path": [
 						"api",
 						"venues",
-						"693e966ffc07a1048fd652b7",
+						"{{venueid}}",
 						"comments",
-						"693e9696fc07a1048fd652bc"
+						"{{commentid}}"
 					]
 				}
 			},
@@ -402,7 +402,7 @@
 					"urlencoded": []
 				},
 				"url": {
-					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/693e90f942f2a99cacbafd75",
+					"raw": "https://mekanbul-backend-kohl.vercel.app/api/venues/{{venueid}}",
 					"protocol": "https",
 					"host": [
 						"mekanbul-backend-kohl",
@@ -412,7 +412,7 @@
 					"path": [
 						"api",
 						"venues",
-						"693e90f942f2a99cacbafd75"
+						"{{venueid}}"
 					]
 				}
 			},
