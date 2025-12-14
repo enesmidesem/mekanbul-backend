@@ -81,4 +81,3 @@ Aşağıda Postman ile alınmış test sonuçlarının ekran görüntüsü bulun
 <img width="2559" height="1390" alt="DeleteComment" src="https://github.com/user-attachments/assets/a5377496-07be-48c6-9448-ab235143447d" />
 
 <img width="2559" height="1390" alt="DeleteVenue" src="https://github.com/user-attachments/assets/b1be5c13-de64-4e7c-ba4c-c266eedd66b5" />
-
